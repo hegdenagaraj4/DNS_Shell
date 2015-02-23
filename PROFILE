@@ -1,0 +1,4 @@
+#profile file
+prompt=$
+path=/bin:/usr/bin
+home=/root/project1/
